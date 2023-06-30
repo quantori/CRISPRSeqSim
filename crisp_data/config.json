@@ -1,0 +1,18 @@
+{
+  "mutationsArray": [
+    {
+      "initLength": 150,
+      "isCoding": true,
+      "mutationSite": [55, 60, 73],
+      "mutationLength": [0, 0, 0],
+      "direction": [true, true, true],
+      "quality": 20.0,
+      "count": 10,
+      "sizeScale": [99, 101],
+      "scaleDirection": 1,
+      "reader": "MiSeq"
+    }
+  ],
+  "outputFolder": ".",
+  "timeFormat": "%Y-%m-%d %H-%M-%S %z"
+}
