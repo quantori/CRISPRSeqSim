@@ -1,6 +1,6 @@
 # CRISPRSeqSim #
 
-CrispTestDataGenerator is a tool that generates variations of the initial and desired sequence
+CRISPRSeqSim is a tool that generates variations of the initial and desired sequence
 (simulation of CRISPR/Cas editing) and provides a report about the mutations and their positions.
 The data produced by CrispTestDataGenerator can be used for testing purposes.
 
